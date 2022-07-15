@@ -1,14 +1,6 @@
 # PDF_Merger_Python
 
-
-
 ### Little python project which allows you to merge multiples pdf files.
-
-<br/>
-
----------
-
-<br/>
 
 # How does it work ?
 
